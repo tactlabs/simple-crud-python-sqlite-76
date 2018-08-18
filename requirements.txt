@@ -1,0 +1,5 @@
+# requirements file
+
+### BEGIN ###
+pysqlite3
+### END ###
